@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Mono:200,200i,300,300i,400,400i,500,500i,600,600i|IBM+Plex+Sans:200,200i,300,300i,400,400i,500,500i,600,600i');
+
+body,h1 {font-family: "IBM Plex Sans", sans-serif}
+body, html {height: 100%}
+.bgimg {
+  background-image: url('/web_bg_stu.jpg');
+  min-height: 100%;
+  background-position: center;
+  background-size: cover;
+}
