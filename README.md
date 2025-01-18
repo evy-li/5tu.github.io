@@ -1,3 +1,3 @@
-Website > https://mcomie.net
-
-Contact > stu@mcomie.net
+📧 github@mcomie.net
+📸 @vision3_50d
+🦋 @evy.li
